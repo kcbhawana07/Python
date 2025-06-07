@@ -1,0 +1,20 @@
+<Houses>
+    <House>
+        <ID>1</ID>
+        <Location>Pokhara</Location>
+        <Price>150000</Price>
+        <Bedrooms>3</Bedrooms>
+    </House>
+    <House>
+        <ID>2</ID>
+        <Location>Kathmandu</Location>
+        <Price>200000</Price>
+        <Bedrooms>4</Bedrooms>
+    </House>
+    <House>
+        <ID>3</ID>
+        <Location>Butwal</Location>
+        <Price>120000</Price>
+        <Bedrooms>2</Bedrooms>
+    </House>
+</House>
